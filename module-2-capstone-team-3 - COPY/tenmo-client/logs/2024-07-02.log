@@ -1,0 +1,2 @@
+2024-07-02T15:02:17.8241914 Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null
+2024-07-02T20:03:59.2493168 Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null

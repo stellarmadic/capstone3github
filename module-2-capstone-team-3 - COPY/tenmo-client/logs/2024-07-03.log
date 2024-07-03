@@ -1,0 +1,5 @@
+2024-07-03T10:25:16.4849772 Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null
+2024-07-03T10:29:05.1516345 500 : [{"timestamp":"2024-07-03T14:29:05.061+00:00","status":500,"error":"Internal Server Error","message":"User registration failed.","path":"/register"}]
+2024-07-03T10:29:26.9575349 401 : [no body]
+2024-07-03T10:37:15.3875823 Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null
+2024-07-03T10:52:38.6013073 401 : [no body]
